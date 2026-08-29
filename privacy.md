@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lumeli Privacy Policy
+---
+
 # Lumeli Privacy Policy
 
 **Last updated: August 29, 2026**
