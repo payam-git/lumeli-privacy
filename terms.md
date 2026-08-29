@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lumeli Terms of Use
+---
+
 # Lumeli Terms of Use
 
 **Last updated: August 29, 2026**
