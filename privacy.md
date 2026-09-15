@@ -5,135 +5,125 @@ title: Lumeli Privacy Policy
 
 # Lumeli Privacy Policy
 
-**Last updated: August 29, 2026**
+**Last updated: September 15, 2026**
 
-Lumeli is designed to help you reduce distracting app usage, protect focused time, and build healthier digital habits.
+Lumeli is a focus and digital-wellbeing app developed by Payam Ghaffarvand Mokari ("Lumeli," "we," "us," or "our"). This Privacy Policy explains how information is processed when you use Lumeli.
 
-We believe that a digital wellbeing app should respect your privacy. Lumeli is designed to use only the information necessary to provide the features you choose to use.
+## 1. Privacy at a glance
 
-## Screen Time and App Usage
+Lumeli is designed to work primarily on your device. We do not require a Lumeli account, and we do not use advertising SDKs or sell personal data.
 
-Because Lumeli helps you manage distracting apps and set limits on app usage, you may reasonably wonder whether Lumeli can see or track how you use your device.
+If iCloud is available, Lumeli uses Apple's SwiftData and CloudKit services to synchronize eligible progress through your **private iCloud database**. This allows progress to return after reinstalling Lumeli or moving to another Apple device using the same iCloud account. Lumeli does not place your progress in a public CloudKit database.
 
-Lumeli uses Apple's Screen Time frameworks, including Family Controls, Device Activity, and Managed Settings, to provide features such as app blocking, focus sessions, and daily usage goals.
+## 2. Information Lumeli processes
 
-Lumeli does not collect or transmit your detailed app usage history to Lumeli-operated servers.
+### Screen Time and focus information
 
-Lumeli does not sell your Screen Time information, use it for advertising, or share it with advertising networks or data brokers.
+Lumeli uses Apple's Family Controls, Device Activity, and Managed Settings frameworks to provide app-blocking and focus features. Depending on the features you use, the app may process on-device information such as:
 
-Apple's Screen Time APIs are designed to provide privacy-preserving access to Screen Time functionality. App, category, and website selections are represented using Apple's privacy-preserving mechanisms rather than giving Lumeli unrestricted access to your device activity.
+- Apps, app categories, or websites you select for restriction;
+- Screen Time authorization state;
+- Active focus-session and daily-limit state;
+- Device Activity information needed to evaluate a goal or apply a restriction; and
+- Focus and notification preferences.
 
-## Information Lumeli Uses
+Apple supplies privacy-preserving identifiers for Screen Time selections. Lumeli does not receive your iCloud password or the contents of other apps. Active Screen Time restrictions, authorization, and selected apps/categories/websites are not synchronized through Lumeli's CloudKit progress store.
 
-Depending on the features you choose to use, Lumeli may process information necessary to:
+### Progress synchronized with private iCloud
 
-- let you select apps, app categories, or websites you want to manage;
-- create and manage protected focus sessions;
-- apply restrictions to selected apps or categories;
-- monitor whether a usage threshold you configured has been reached;
-- maintain your daily usage goals;
-- display streaks, progress, and motivational feedback;
-- remember your app preferences and settings.
+When iCloud is enabled and available, Lumeli may synchronize the following app progress:
 
-This information is used only to provide Lumeli's functionality.
+- Total protected or focus time;
+- Completed protected/focus-session counts;
+- Completed-session history and relevant completion dates;
+- Daily progress and dates used to calculate streaks;
+- Current and longest streak information needed for safe migration and recovery;
+- Time Coins earned or spent and related reward progress; and
+- Achievement or badge progress and the data used to determine legitimate unlocks.
 
-## Information Stored on Your Device
+This data is stored locally first and then synchronized by Apple through your private CloudKit database. Synchronization may be delayed while your device is offline, signed out of iCloud, or when iCloud is unavailable.
 
-Lumeli may store information locally on your device, including:
+### Purchases and subscriptions
 
-- selected focus durations;
-- Screen Time selections and settings;
-- daily usage goals;
-- focus-session information;
-- streak and progress information;
-- preferences and app settings.
+Apple processes payments through the App Store. Lumeli uses StoreKit to receive information needed to provide paid features, such as product identifiers, entitlement status, expiration or revocation status, and introductory-offer eligibility. We do not receive or store your payment-card details.
 
-Locally stored information remains on your device unless a feature explicitly states otherwise.
+### Notifications
 
-## Information Lumeli Does Not Collect
+If you allow notifications, Lumeli may schedule local notifications such as focus-completion alerts, daily-limit warnings, or streak reminders. Lumeli does not operate a server that sends marketing push notifications.
 
-Lumeli does not require access to the contents of your messages, emails, photos, contacts, passwords, or other personal content inside the apps you use.
+### Diagnostics
 
-Lumeli does not sell personal information.
+Apple may provide crash reports, performance information, or other diagnostics if you have chosen to share such information with developers through your Apple device settings. Apple controls that sharing under its own terms and privacy policy.
 
-Lumeli does not use your Screen Time information for advertising.
+## 3. How we use information
 
-Lumeli does not share your Screen Time information with advertising networks or data brokers.
+We process information only as needed to:
 
-The current version of Lumeli does not require you to create a Lumeli account.
+- Provide focus, restriction, progress, streak, reward, and achievement features;
+- Save progress locally and synchronize eligible progress through private iCloud;
+- Restore eligible purchases and determine access to paid features;
+- Maintain reliability, diagnose problems, prevent abuse, and improve the app; and
+- Meet applicable legal obligations.
 
-## Apple Screen Time Frameworks
+We do not use Lumeli data for cross-app tracking, targeted advertising, or sale to data brokers.
 
-Lumeli relies on Apple system frameworks, including:
+## 4. Legal bases for users in the EEA, UK, or Switzerland
 
-- Family Controls
-- Device Activity
-- Managed Settings
+Where applicable, we rely on:
 
-These frameworks allow Lumeli to provide Screen Time and app-management features using Apple's privacy-preserving infrastructure.
+- **Performance of a contract** to provide features you request and manage paid access;
+- **Legitimate interests** in maintaining app security, reliability, and limited diagnostics, balanced against your rights;
+- **Consent** where the operating system asks for permission, including Screen Time authorization, notifications, and optional diagnostic sharing; and
+- **Legal obligations** when processing is required by law.
 
-Screen Time authorization is requested only when needed for features you choose to use.
+You can withdraw an operating-system permission in your device settings. Doing so does not affect processing that occurred before withdrawal.
 
-You can revoke Lumeli's Screen Time authorization through your device settings. If authorization is revoked, features that depend on Screen Time access may stop working.
+## 5. iCloud and Apple services
 
-## Analytics and Tracking
+Private iCloud synchronization is provided by Apple and depends on your device, Apple account, network connection, storage availability, and Apple's services. Data synchronized through CloudKit is associated with your private iCloud database and is available only through authorized access to your Apple account and Lumeli's CloudKit container.
 
-Lumeli does not use Screen Time information to track you across apps or websites.
+We do not receive your iCloud credentials. Apple's handling of iCloud, App Store purchases, diagnostics, and related service data is governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
-Lumeli does not use Screen Time information to build advertising profiles.
+## 6. Sharing and disclosure
 
-If anonymous diagnostics or crash information provided by Apple is available to the developer through Apple's developer services, it may be used to identify technical problems and improve the reliability of Lumeli.
+We do not sell or rent personal data. Information may be processed by Apple to provide iCloud/CloudKit, App Store, StoreKit, Screen Time, notifications, and diagnostics. We may also disclose information if required by applicable law or necessary to protect users, our rights, or the security of the app.
 
-Such information is not used to monitor your Screen Time activity for advertising purposes.
+Lumeli currently does not use third-party advertising, analytics, authentication, or cloud-backend providers for app progress.
 
-## Purchases
+## 7. Retention and deletion
 
-If Lumeli offers paid features or subscriptions through the App Store, purchases are processed by Apple.
+Local information remains on your device until it is removed by you, removed by the app as part of normal operation, or deleted with the app. Deleting Lumeli removes its local data, but **does not necessarily delete progress already stored in your private iCloud database**. That data may synchronize again if you reinstall Lumeli while using the same iCloud account.
 
-Lumeli does not directly receive or store your full payment card information.
+Apple may provide controls in your device or iCloud settings for managing an app's iCloud data. Availability and wording of those controls can vary by operating-system version. For assistance with Lumeli data or a privacy request, contact us at [support@lumeli.app](mailto:support@lumeli.app). We will explain and support the options available to us and to you.
 
-Apple's handling of purchase and payment information is governed by Apple's own privacy policies and terms.
+Purchase records are retained by Apple under Apple's policies. Diagnostic information, when shared, is retained according to Apple's settings and policies and our legitimate troubleshooting needs.
 
-## Data Sharing
+## 8. Security
 
-Lumeli does not sell your personal information.
+We use Apple platform protections and private CloudKit storage to protect synchronized progress. No storage or transmission method is completely secure, and synchronization may fail or be delayed. Lumeli continues to use its local data when iCloud is unavailable.
 
-Lumeli does not sell, rent, or share your Screen Time information for advertising or marketing purposes.
+## 9. International processing
 
-Information may be disclosed if required by applicable law, regulation, legal process, or a valid governmental request.
+Apple may process information in countries other than the one where you live. Apple describes its data practices and safeguards in its privacy materials. Where we are legally responsible for a transfer, we use safeguards required by applicable law.
 
-## Data Retention and Deletion
+## 10. Your privacy rights
 
-Information stored locally by Lumeli remains on your device for as long as necessary to provide the app's functionality.
+Depending on where you live, you may have rights to request access, correction, deletion, restriction, objection, or portability of personal data, and to withdraw consent. Some requests may be limited where we cannot identify data held only in your private iCloud database or where retention is required by law.
 
-Where Lumeli provides controls to reset goals, selections, sessions, or progress, you can use those controls to remove the corresponding information.
+To exercise a right, email [support@lumeli.app](mailto:support@lumeli.app). We may need enough information to understand and verify your request, but we will not ask for your iCloud password.
 
-You can also remove locally stored Lumeli information by deleting the app from your device.
+If you are in the EEA, you may also complain to your local supervisory authority. In Finland, this is the [Office of the Data Protection Ombudsman](https://tietosuoja.fi/en/home).
 
-Because the current version of Lumeli does not require a Lumeli account or store your detailed Screen Time history on a Lumeli-operated server, there is no corresponding Screen Time history stored on our servers to delete.
+## 11. Children
 
-## Security
+Lumeli is not designed to collect personal information from children for advertising or profiling. If a child uses Lumeli, a parent or guardian should supervise use and provide any authorization required by applicable law or Apple's platform rules. Contact us if you believe personal data has been handled improperly in connection with a child.
 
-Lumeli is designed to minimize the collection and transmission of personal information.
+## 12. Changes to this policy
 
-Where Apple system frameworks are used, Lumeli relies on the privacy and security protections provided by iOS and Apple's supported APIs.
+We may update this Privacy Policy when Lumeli's features, practices, or legal obligations change. We will update the date above and provide additional notice when required by law.
 
-No method of electronic storage or processing can be guaranteed to be completely secure, but we take reasonable measures appropriate to the information handled by Lumeli.
+## 13. Contact
 
-## Changes to This Privacy Policy
+**Data controller:** Payam Ghaffarvand Mokari, Finland  
+**Email:** [support@lumeli.app](mailto:support@lumeli.app)
 
-We may update this Privacy Policy as Lumeli develops, including when new features or services are introduced.
-
-When the policy changes, the updated version will be published on this page and the "Last updated" date will be revised.
-
-## Contact
-
-If you have questions, concerns, or requests regarding this Privacy Policy or Lumeli's privacy practices, contact:
-
-**Email:** p.ghaffarvand@gmail.com
-
-**Developer:** Payam Ghaffarvand Mokari
-
----
-
-© 2026 Payam Ghaffarvand Mokari. All rights reserved.
