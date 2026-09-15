@@ -1,8 +1,7 @@
 ---
-
 layout: default
 title: Lumeli Privacy Policy
-----------------------------
+---
 
 # Lumeli Privacy Policy
 
@@ -172,7 +171,7 @@ Where this applies, we will explain the controls available to you and provide re
 
 To exercise a privacy right or ask a privacy-related question, contact:
 
-[support@lumeli.app](mailto:support@lumeli.app)
+[support@lumeli.app](mailto:p.ghaffarvand@gmail.com)
 
 We may request enough information to understand and, where legally required, verify your request.
 
@@ -188,7 +187,7 @@ We do not knowingly use children's personal data for targeted advertising, profi
 
 Where a child uses Lumeli, use of certain Apple features may be subject to parental or guardian authorization and Apple's platform requirements. Parents and guardians should supervise a child's use of Lumeli where appropriate.
 
-If you believe personal data relating to a child has been processed improperly in connection with Lumeli, please contact us at [support@lumeli.app](mailto:support@lumeli.app).
+If you believe personal data relating to a child has been processed improperly in connection with Lumeli, please contact us at [support@lumeli.app](mailto:p.ghaffarvand@gmail.com)
 
 ## 12. Changes to this Privacy Policy
 
