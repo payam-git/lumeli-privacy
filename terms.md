@@ -38,13 +38,13 @@ Subject to these Terms and the Apple Standard EULA, you receive a limited, perso
 
 Except where applicable law expressly permits otherwise, you may not:
 
-* Copy or redistribute Lumeli;
-* Sell, rent, lease, sublicense, or commercially exploit Lumeli;
-* Reverse engineer, decompile, or attempt to derive Lumeli's source code;
-* Circumvent or interfere with security or technical protections;
-* Attempt to gain unauthorized access to Lumeli or related systems;
-* Intentionally interfere with or disrupt Lumeli's operation; or
-* Use Lumeli in violation of applicable law.
+- Copy or redistribute Lumeli;
+- Sell, rent, lease, sublicense, or commercially exploit Lumeli;
+- Reverse engineer, decompile, or attempt to derive Lumeli's source code;
+- Circumvent or interfere with security or technical protections;
+- Attempt to gain unauthorized access to Lumeli or related systems;
+- Intentionally interfere with or disrupt Lumeli's operation; or
+- Use Lumeli in violation of applicable law.
 
 Nothing in these Terms transfers ownership of Lumeli or its intellectual property to you.
 
@@ -56,12 +56,12 @@ You choose which supported apps, app categories, or websites to restrict and whe
 
 You understand that:
 
-* Apple controls Screen Time authorization and the underlying Screen Time frameworks;
-* Apple may change, restrict, or discontinue functionality provided by those frameworks;
-* Screen Time authorization may be revoked or changed through system settings;
-* Restrictions may be affected by device restarts, operating-system behavior, authorization changes, app deletion, software updates, system limitations, or software defects;
-* Lumeli cannot guarantee that a restriction will always begin at a particular time, remain continuously active, or prevent every possible form of access; and
-* You remain responsible for how you configure and use Lumeli.
+- Apple controls Screen Time authorization and the underlying Screen Time frameworks;
+- Apple may change, restrict, or discontinue functionality provided by those frameworks;
+- Screen Time authorization may be revoked or changed through system settings;
+- Restrictions may be affected by device restarts, operating-system behavior, authorization changes, app deletion, software updates, system limitations, or software defects;
+- Lumeli cannot guarantee that a restriction will always begin at a particular time, remain continuously active, or prevent every possible form of access; and
+- You remain responsible for how you configure and use Lumeli.
 
 You should consider carefully before restricting access to apps, websites, or services that may be important for safety, health, work, school, financial matters, authentication, communication, or emergencies.
 
@@ -75,12 +75,12 @@ No separate Lumeli account is required for this synchronization.
 
 Eligible synchronized progress may include:
 
-* Total protected or focus time;
-* Completed focus-session history and counts;
-* Daily progress and completion dates;
-* Dates and information used to calculate streaks;
-* Time Coins and reward progress; and
-* Achievement or badge progress.
+- Total protected or focus time;
+- Completed focus-session history and counts;
+- Daily progress and completion dates;
+- Dates and information used to calculate streaks;
+- Time Coins and reward progress; and
+- Achievement or badge progress.
 
 Lumeli does not synchronize or recreate an active Screen Time restriction, Screen Time authorization, or your selected apps, app categories, or websites as part of its progress synchronization.
 
@@ -114,11 +114,11 @@ Lumeli may offer auto-renewing subscriptions through Apple's App Store.
 
 When you purchase a subscription:
 
-* Payment is processed by Apple and charged to your Apple account;
-* The subscription may automatically renew unless you cancel it in accordance with the terms presented by Apple;
-* Renewal charges, timing, and applicable prices are handled according to Apple's subscription terms and the information displayed when you subscribe;
-* You can manage or cancel your subscription through your Apple account's subscription settings; and
-* Deleting Lumeli does not automatically cancel an active subscription.
+- Payment is processed by Apple and charged to your Apple account;
+- The subscription may automatically renew unless you cancel it in accordance with the terms presented by Apple;
+- Renewal charges, timing, and applicable prices are handled according to Apple's subscription terms and the information displayed when you subscribe;
+- You can manage or cancel your subscription through your Apple account's subscription settings; and
+- Deleting Lumeli does not automatically cancel an active subscription.
 
 Apple manages subscription billing, renewal, cancellation, and applicable refund processes.
 
@@ -258,9 +258,9 @@ These Terms, the Privacy Policy, the Apple Standard EULA, and applicable purchas
 
 If you have questions about these Terms or Lumeli, contact:
 
-**Developer:** Payam Ghaffarvand Mokari
-**Location:** Finland
-**Email:** [p.ghaffarvand@gmail.com](mailto:p.ghaffarvand@gmail.com)
+**Developer:** Payam Ghaffarvand Mokari\
+**Location:** Finland\
+**Email:** p.ghaffarvand\@gmail.com
 
 ---
 
