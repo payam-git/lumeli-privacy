@@ -133,7 +133,7 @@ Progress synchronized through iCloud may remain in your private iCloud database 
 
 Apple may provide controls through your device or iCloud settings for viewing or managing data associated with apps that use iCloud. The availability, location, and wording of these controls may vary by operating-system version.
 
-If you need assistance with Lumeli data or wish to make a privacy request, contact us at [support@lumeli.app](mailto:support@lumeli.app). We will explain and provide reasonable assistance with the options available to us and to you.
+If you need assistance with Lumeli data or wish to make a privacy request, contact us at [p.ghaffarvand@gmail.com](mailto:p.ghaffarvand@gmail.com). We will explain and provide reasonable assistance with the options available to us and to you.
 
 Purchase and transaction records may be retained by Apple according to Apple's legal obligations and policies.
 
@@ -170,8 +170,7 @@ Some Lumeli information may exist only locally on your device or within your pri
 Where this applies, we will explain the controls available to you and provide reasonable assistance with your request. We will not ask you to provide your Apple account or iCloud password.
 
 To exercise a privacy right or ask a privacy-related question, contact:
-
-[support@lumeli.app](mailto:p.ghaffarvand@gmail.com)
+[p.ghaffarvand@gmail.com](mailto:p.ghaffarvand@gmail.com)
 
 We may request enough information to understand and, where legally required, verify your request.
 
@@ -187,7 +186,7 @@ We do not knowingly use children's personal data for targeted advertising, profi
 
 Where a child uses Lumeli, use of certain Apple features may be subject to parental or guardian authorization and Apple's platform requirements. Parents and guardians should supervise a child's use of Lumeli where appropriate.
 
-If you believe personal data relating to a child has been processed improperly in connection with Lumeli, please contact us at [support@lumeli.app](mailto:p.ghaffarvand@gmail.com)
+If you believe personal data relating to a child has been processed improperly in connection with Lumeli, please contact us at [p.ghaffarvand@gmail.com](mailto:p.ghaffarvand@gmail.com)
 
 ## 12. Changes to this Privacy Policy
 
@@ -201,4 +200,4 @@ For questions about this Privacy Policy, Lumeli's privacy practices, or your pri
 
 **Data controller:** Payam Ghaffarvand Mokari
 **Location:** Finland
-**Email:** [support@lumeli.app](mailto:support@lumeli.app)
+**Email:** [p.ghaffarvand@gmail.com](mailto:p.ghaffarvand@gmail.com)
