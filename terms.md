@@ -263,7 +263,7 @@ If you have questions about these Terms or Lumeli, contact:
 
 **Developer:** Payam Ghaffarvand Mokari\
 **Location:** Finland\
-**Email:** p.ghaffarvand\@gmail.com
+**Email:** p.ghaffarvand@gmail.com
 
 ---
 
