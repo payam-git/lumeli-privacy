@@ -1,4 +1,7 @@
 ---
+layout: default
+title: Lumeli Terms of Use
+---
 
 # Lumeli Terms of Use
 
