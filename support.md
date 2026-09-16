@@ -6,7 +6,7 @@ Need help with Lumeli? We're here to help.
 
 If you're experiencing a problem with Lumeli, have a question, or would like to send feedback, please contact:
 
-**Email:** [YOUR SUPPORT EMAIL]
+**Email:** p.ghaffarvand@gmail.com
 
 When reporting a technical issue, it can be helpful to include:
 
